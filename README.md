@@ -21,7 +21,7 @@ https://github.com/PedroLoriato/teste_banco_de_dados
 ## Habilidades
 - Linguagens de Programação: HTML5, CSS3, JavaScript, PHP.
 - Frameworks: React.js, Node.js.
-- Ferramentas: VScode, xampp, wamp, mySQL WorkBench. 
+- Ferramentas: VScode, Xampp, Wamp, mySQL WorkBench. 
 
 ## Contato
 - LinkedIn: https://www.linkedin.com/in/pedroloriato/
