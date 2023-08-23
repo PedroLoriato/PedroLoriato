@@ -1,7 +1,7 @@
 # Olá! Eu sou Pedro Henrique Loriato.
 
 ## Sobre Mim
-⚙️ Estou iniciando em desenvolvimento Web.<br>
+⚙️ Estou iniciando em Desenvolvimento Web.<br>
 👨 Tenho 18 anos.<br>
 💻 Estou cursando Sistemas para Internet no IFES Campus Santa Teresa.<br>
 📚 Atualmente estou no 2º Período.
