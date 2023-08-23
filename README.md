@@ -7,7 +7,8 @@
 📚 Atualmente estou no 2º Período.
 
 ## Currículo
-Você pode encontrar mais detalhes sobre minha formação e experiência no meu currículo acadêmico: (http://lattes.cnpq.br/6498236282090412).
+Você pode encontrar mais detalhes sobre minha formação e experiência no meu currículo acadêmico:<br>
+(http://lattes.cnpq.br/6498236282090412).
 
 ## Projetos
 
@@ -23,6 +24,6 @@ https://github.com/PedroLoriato/teste_banco_de_dados
 - Ferramentas: VScode, xampp, wamp, mySQL WorkBench. 
 
 ## Contato
-- LinkedIn: https://www.linkedin.com/in/pedro-henrique-loriato-66983221b/
+- LinkedIn: https://www.linkedin.com/in/pedroloriato/
 - Email: pedrohloriato@gmail.com
 - Instagram: @pedroloriato.
