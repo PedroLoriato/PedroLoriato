@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 ⚙️ Sou desenvolvedor Web.<br>
-🇧🇷 Tenho 18 anos.<br>
+🇧🇷  Tenho 18 anos.<br>
 💻 Estou cursando Sistemas para Internet no IFES Campus Santa Teresa.<br>
 📚 Atualmente estou no 2º Período.
 
