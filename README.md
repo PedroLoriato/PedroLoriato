@@ -1,7 +1,10 @@
-# Pedro Henrique Loriato - Desenvolvedor Web
+# Olá! Eu sou Pedro Henrique Loriato.
 
 ## Sobre Mim
-Olá! Meu nome é Pedro Henrique Loriato e sou um desenvolvedor web de 18 anos. Atualmente, estou cursando Tecnologia em Sistemas para Internet no IFES Santa Teresa, com previsão de formatura em dezembro/2025. Sou apaixonado por criar soluções web inovadoras e estou constantemente aprendendo e aprimorando minhas habilidades.
+⚙️ Sou desenvolvedor Web.
+Tenho 18 anos.
+💻 Estou cursando Sistemas para Internet no IFES Campus Santa Teresa.
+📚 Atualmente estou no 2º Período.
 
 ## Currículo
 Você pode encontrar mais detalhes sobre minha formação e experiência no meu currículo acadêmico: (http://lattes.cnpq.br/6498236282090412).
