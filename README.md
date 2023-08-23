@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 ⚙️ Sou iniciando em desenvolvimento Web.<br>
-🇧🇷  Tenho 18 anos.<br>
+♂️ Tenho 18 anos.<br>
 💻 Estou cursando Sistemas para Internet no IFES Campus Santa Teresa.<br>
 📚 Atualmente estou no 2º Período.
 
@@ -20,6 +20,7 @@ https://github.com/PedroLoriato/teste_banco_de_dados
 
 ## Habilidades
 - Linguagens de Programação: HTML5, CSS3, JavaScript, PHP.
+- Banco de Dados: mySQL.
 - Frameworks: React.js, Node.js.
 - Ferramentas: VScode, Xampp, Wamp, mySQL WorkBench. 
 
