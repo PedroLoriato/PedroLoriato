@@ -18,7 +18,7 @@ https://github.com/PedroLoriato/Trabalho-Interdisciplinar
 ## Habilidades
 - Linguagens de Programação: HTML5, CSS3, JavaScript, PHP.
 - Banco de Dados: mySQL.
-- Frameworks: React.js, Node.js.
+- Frameworks: React, Node e Next.
 - Ferramentas: VScode, Xampp, WampServer, mySQL WorkBench. 
 
 ## Contato
