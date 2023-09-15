@@ -15,9 +15,6 @@ Você pode encontrar mais detalhes sobre minha formação e experiência no meu 
 ### Trabalho Final 1º Período
 https://github.com/PedroLoriato/Trabalho-Interdisciplinar
 
-### Projeto (React.js, Node.js e mySQL)
-https://github.com/PedroLoriato/teste_banco_de_dados
-
 ## Habilidades
 - Linguagens de Programação: HTML5, CSS3, JavaScript, PHP.
 - Banco de Dados: mySQL.
