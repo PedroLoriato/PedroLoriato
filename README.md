@@ -2,9 +2,9 @@
 
 ## Sobre Mim
 ⚙️ Estou iniciando em Desenvolvimento Web.<br>
-👨 Tenho 18 anos.<br>
+👨 Tenho 19 anos.<br>
 💻 Estou cursando Sistemas para Internet no IFES Campus Santa Teresa.<br>
-📚 Atualmente estou no 2º Período.
+📚 Atualmente estou no 3º Período.
 
 ## Currículo
 Você pode encontrar mais detalhes sobre minha formação e experiência no meu currículo acadêmico:<br>
@@ -16,9 +16,10 @@ Você pode encontrar mais detalhes sobre minha formação e experiência no meu 
 https://github.com/PedroLoriato/Trabalho-Interdisciplinar
 
 ## Habilidades
-- Linguagens de Programação: HTML5, CSS3, JavaScript, PHP.
+- Linguagens de Codificação/Estilização: HTML5, CSS3.
+- Linguagens de Programação: JavaScript, PHP.
 - Banco de Dados: mySQL.
-- Frameworks: React, Node e Next.
+- Frameworks: React, Node.
 - Ferramentas: VScode, Xampp, WampServer, mySQL WorkBench. 
 
 ## Contato
