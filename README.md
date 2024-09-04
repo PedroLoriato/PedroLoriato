@@ -25,4 +25,4 @@ https://github.com/PedroLoriato/Trabalho-Interdisciplinar
 ## Contato
 - LinkedIn: [Pedro Henrique Loriato](https://www.linkedin.com/in/pedroloriato/)
 - Email: pedrohloriato@gmail.com
-- Instagram: [@pedroloriato.](https://www.instagram.com/pedroloriato/)
+- Instagram: [@pedroloriato](https://www.instagram.com/pedroloriato/)
