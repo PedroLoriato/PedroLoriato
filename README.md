@@ -23,6 +23,6 @@ https://github.com/PedroLoriato/Trabalho-Interdisciplinar
 - Ferramentas: VScode, Xampp, WampServer, mySQL WorkBench. 
 
 ## Contato
-- LinkedIn: https://www.linkedin.com/in/pedroloriato/
+- LinkedIn: [Pedro Henrique Loriato](https://www.linkedin.com/in/pedroloriato/)
 - Email: pedrohloriato@gmail.com
-- Instagram: @pedroloriato.
+- Instagram: [@pedroloriato.](https://www.instagram.com/pedroloriato/)
