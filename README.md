@@ -22,7 +22,7 @@ https://github.com/PedroLoriato/aplicacao-react
 - Linguagens de Codificação/Estilização: HTML5, CSS3.
 - Linguagens de Programação: JavaScript, TypeScript, PHP.
 - Linguagem de Consulta: SQL;
-- Banco de Dados: mySQL.
+- Banco de Dados: MySQL.
 - Frameworks: React e Node.
 - Ferramentas: VScode, Xampp, WampServer, mySQL WorkBench, SQLyog. 
 
