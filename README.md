@@ -4,7 +4,7 @@
 ⚙️ Estou iniciando em Desenvolvimento Web.<br>
 👨 Tenho 19 anos.<br>
 💻 Estou cursando Sistemas para Internet no IFES Campus Santa Teresa.<br>
-📚 Atualmente estou no 3º Período.
+📚 Atualmente estou no 4º Período.
 
 ## Currículo
 Você pode encontrar mais detalhes sobre minha formação e experiência no meu currículo acadêmico:<br>
@@ -15,11 +15,14 @@ Você pode encontrar mais detalhes sobre minha formação e experiência no meu 
 ### Trabalho Final 1º Período
 https://github.com/PedroLoriato/Trabalho-Interdisciplinar
 
+### Trabalho da Disciplina de Front End II - Aplicação REACT utilizando API
+https://github.com/PedroLoriato/aplicacao-react
+
 ## Habilidades
 - Linguagens de Codificação/Estilização: HTML5, CSS3.
 - Linguagens de Programação: JavaScript, TypeScript, PHP.
 - Banco de Dados: mySQL.
-- Frameworks: React, Node.
+- Frameworks: React.
 - Ferramentas: VScode, Xampp, WampServer, mySQL WorkBench. 
 
 ## Contato
