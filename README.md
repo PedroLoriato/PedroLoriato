@@ -21,9 +21,10 @@ https://github.com/PedroLoriato/aplicacao-react
 ## Habilidades
 - Linguagens de Codificação/Estilização: HTML5, CSS3.
 - Linguagens de Programação: JavaScript, TypeScript, PHP.
+- Liguagem de Consulta: SQL;
 - Banco de Dados: mySQL.
-- Frameworks: React.
-- Ferramentas: VScode, Xampp, WampServer, mySQL WorkBench. 
+- Frameworks: React e Node.
+- Ferramentas: VScode, Xampp, WampServer, mySQL WorkBench, SQLyog. 
 
 ## Contato
 - LinkedIn: [Pedro Henrique Loriato](https://www.linkedin.com/in/pedroloriato/)
