@@ -19,12 +19,12 @@ https://github.com/PedroLoriato/Trabalho-Interdisciplinar
 https://github.com/PedroLoriato/aplicacao-react
 
 ## Habilidades
-- Linguagens de Codificação/Estilização: HTML5, CSS3.
+- Linguagens de Codificação/Estilização: HTML5 e CSS3.
 - Linguagens de Programação: JavaScript, TypeScript, PHP e Dart.
 - Linguagem de Consulta: SQL;
 - Banco de Dados: MySQL.
 - Frameworks: React, Node e Flutter.
-- Ferramentas: VScode, Xampp, WampServer, mySQL WorkBench, SQLyog, Project IDX. 
+- Ferramentas: VScode, Xampp, WampServer, mySQL WorkBench, SQLyog e Project IDX. 
 
 ## Contato
 - LinkedIn: [Pedro Henrique Loriato](https://www.linkedin.com/in/pedroloriato/)
