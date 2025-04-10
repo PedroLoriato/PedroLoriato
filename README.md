@@ -4,7 +4,7 @@
 ⚙️ Estudante de Desenvolvimento Web<br>
 👨 Tenho 20 anos.<br>
 💻 Estou cursando Sistemas para Internet no IFES Campus Santa Teresa.<br>
-📚 Atualmente estou no 4º Período.
+📚 Atualmente estou no 5º Período.
 
 ## Currículo
 Você pode encontrar mais detalhes sobre minha formação e experiência no meu currículo acadêmico:<br>
