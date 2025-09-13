@@ -4,7 +4,7 @@
 ⚙️ Estudante de Desenvolvimento Web<br>
 👨 Tenho 20 anos.<br>
 💻 Estou cursando Sistemas para Internet no IFES Campus Santa Teresa.<br>
-📚 Atualmente estou no 5º Período.
+📚 Em mobilidade académica no Instituto Politécnico de Bragança (Portugal), ingressando no 6º Período em 02/2026.
 
 ## Currículo
 Você pode encontrar mais detalhes sobre minha formação e experiência no meu currículo acadêmico:<br>
