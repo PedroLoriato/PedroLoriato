@@ -18,6 +18,9 @@ https://github.com/PedroLoriato/Trabalho-Interdisciplinar
 ### Trabalho da Disciplina de Front End II - Aplicação REACT utilizando API
 https://github.com/PedroLoriato/aplicacao-react
 
+### Trabalho de Desenvolvimento Mobile II - Aplicativo Mobile integrado a API Django | Colibri Notícias
+https://github.com/Katiane-Nascimento/colibri-noticias
+
 ### Trabalho de Desenvolvimento Mobile II - Aplicativo Mobile integrado ao Firebase | Colibri Notícias
 https://github.com/PedroLoriato/firebase-colibri-noticias
 
