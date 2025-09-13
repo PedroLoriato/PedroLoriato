@@ -18,7 +18,7 @@ https://github.com/PedroLoriato/Trabalho-Interdisciplinar
 ### Trabalho da Disciplina de Front End II - Aplicação REACT utilizando API
 https://github.com/PedroLoriato/aplicacao-react
 
-### Aplicativo Mobile para Android com integração com Firebase - Colibrio Notícias
+### Trabalho de Desenvolvimento Mobile II - Aplicativo Mobile integrado ao Firebase | Colibri Notícias
 https://github.com/PedroLoriato/firebase-colibri-noticias
 
 ## Habilidades
