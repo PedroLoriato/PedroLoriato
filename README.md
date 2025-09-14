@@ -27,10 +27,10 @@ https://github.com/PedroLoriato/firebase-colibri-noticias
 ## Habilidades
 - Linguagens de Codificação/Estilização: HTML5 e CSS3.
 - Linguagens de Programação: JavaScript, TypeScript, PHP e Dart.
-- Linguagem de Consulta: SQL;
-- Banco de Dados: MySQL.
-- Frameworks: React, Node e Flutter.
-- Ferramentas: VScode, Xampp, WampServer, mySQL WorkBench, SQLyog e Project IDX. 
+- Linguagem de Consulta: SQL, BSON;
+- Banco de Dados: MySQL, MongoDB;
+- Frameworks: React, Node, Flutter e Django.
+- Ferramentas: VScode, Xampp, WampServer, mySQL WorkBench, SQLyog e Firebasee Studio. 
 
 ## Contato
 - LinkedIn: [Pedro Henrique Loriato](https://www.linkedin.com/in/pedroloriato/)
