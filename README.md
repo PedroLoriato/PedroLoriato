@@ -26,7 +26,7 @@
 <div align="center">
   <a href="https://github.com/PedroLoriato">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroLoriato&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=8"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLoriato&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&border_radius=8&hide=c,c%2B%2B"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLoriato&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&border_radius=8&hide=cmake,c,c%2B%2B"/>
   </a>
 </div>
 
