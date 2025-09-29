@@ -14,8 +14,8 @@
 
 ### 👨‍💻 Sobre Mim
 
--   🎓 Cursando **Sistemas para Internet** no [IFES Campus Santa Teresa](https://www.ifes.edu.br/).
--   🌍 Atualmente em mobilidade acadêmica no **Instituto Politécnico de Bragança**, em Portugal.
+-   🎓 Cursando **Sistemas para Internet** no [IFES Campus Santa Teresa](https://santateresa.ifes.edu.br).
+-   🌍 Atualmente em **Mobilidade Acadêmica** no [Instituto Politécnico de Bragança](https://ipb.pt/pt), em Portugal.
 -   🎯 Focado em aprimorar minhas habilidades em desenvolvimento Full Stack e mobile.
 -   🚀 Buscando oportunidades para colaborar em projetos desafiadores e de impacto.
 
